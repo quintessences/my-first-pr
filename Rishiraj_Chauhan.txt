@@ -1,0 +1,14 @@
+"Hello! I'm Rishiraj Chauhan"
+
+Languages I know:
+C || C++ || Python
+
+Markup Language:
+HTML
+
+Styling Language:
+CSS
+
+Hackerran 4 star C user.
+
+"Believe in Yourself"
